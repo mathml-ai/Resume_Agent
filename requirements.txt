@@ -3,3 +3,4 @@ uvicorn
 phidata
 pymupdf
 huggingface_hub
+python-multipart
